@@ -34,7 +34,7 @@ git clone https://github.com/everybecchy/twilio-flex-localization-Portugues-Br.g
 // Change to working directory
 cd twilio-flex-localization-Portugues-Br
 
-// Install NPM Packages
+// Install Packages
 npm install
 
 // Local Development
